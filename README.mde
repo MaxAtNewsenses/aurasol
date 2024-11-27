@@ -1,0 +1,12 @@
+# Aurasol 
+## 2024-11-27
+
+Add new category to wordpress page. 
+
+1. Staging: 
+
+2. use function.php to add new category to wordpress page. 
+
+3. Create small AI tool and add content to wordpress api.
+
+4. Run Cronjob to update content to wordpress api. 
